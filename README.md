@@ -15,11 +15,11 @@ Presentation link here
     $ source activate [env-name]
 ### 5.install pip 
     $ conda install pip
-    $ pip install --upgrade tensorflow 
 ### 6.Install TensorFlow
     $ conda install tensorflow
+    $ pip install --upgrade tensorflow 
 ### 7.Install Keras
-    $ conda install -c conda-forge keras
+    $ pip install keras
 ### 8. Install Jupyter Notebook
     $ pip install jupyter
 
